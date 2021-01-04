@@ -8,5 +8,6 @@
 
 •	Asked questions to get a clear data.
 
-•	Finally, I created a tool to know the relation between three variables (multiple axis)   
+•	Finally, I created a tool to know the relation between three variables (multiple axis). Below,  in the picture we can see that the office supplies had the hieghst quantitnty of order because it
+had the lowest price.  
 
