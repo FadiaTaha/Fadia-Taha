@@ -13,7 +13,7 @@ had the lowest price.
 
 
 
-(https://github.com/FadiaTaha/Fadia_Portfolio/tree/main/Images)
+![](https://github.com/FadiaTaha/Fadia_Portfolio/tree/main/Images)
 
 
 # [Project2: Students Performance: Project Overview](https://github.com/FadiaTaha/Student-Performance-Project.)
