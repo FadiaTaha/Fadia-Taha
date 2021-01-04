@@ -17,7 +17,7 @@ had the lowest price.
 
 
 
-![](/Images/Student_performance.png)
+![](/Images/multiple_axis.png)
 
 
 
