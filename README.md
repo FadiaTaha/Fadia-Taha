@@ -15,7 +15,7 @@ had the lowest price.
 
 
 
-![](https://github.com/FadiaTaha/Fadia_Portfolio/blob/main/Images/Quantity%2C%20Category%20and%20price%20relation.png)
+![](/Images/Quantity%2C%20Category%20and%20price%20relation.png)
 
 
 # [Project 2: Students Performance: Project Overview](https://github.com/FadiaTaha/Student-Performance-Project.)
@@ -29,6 +29,6 @@ had the lowest price.
 •	This result could help the institution to determine the elements that affect students' performance.
 
 
-![](https://github.com/FadiaTaha/Fadia_Portfolio/blob/main/Images/Student%20performance.png)
+![](/Images/Student%20performance.png)
 
 
