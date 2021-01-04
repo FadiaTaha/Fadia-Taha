@@ -1,6 +1,8 @@
-# Fadia_Portfolio
+# Fadia_Data Analytics
 
-# [Project1: Global Superstore Analysis: Project Overviwe](https://github.com/FadiaTaha/Global-Superstore-Analysis-Via-Python)
+
+
+# [Project 1: Global Superstore Analysis: Project Overviwe](https://github.com/FadiaTaha/Global-Superstore-Analysis-Via-Python)
 
 •	Analyzed the data for 24 columns and 51290 rows via Python libraries. 
 
@@ -16,7 +18,7 @@ had the lowest price.
 ![](https://github.com/FadiaTaha/Fadia_Portfolio/blob/main/Images/Quantity%2C%20Category%20and%20price%20relation.png)
 
 
-# [Project2: Students Performance: Project Overview](https://github.com/FadiaTaha/Student-Performance-Project.)
+# [Project 2: Students Performance: Project Overview](https://github.com/FadiaTaha/Student-Performance-Project.)
 
 •	Create multiple aggregation tool in python to analyze data.
 
