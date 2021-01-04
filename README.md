@@ -1,6 +1,6 @@
 # Fadia_Portfolio
 
-# Project1: Global Superstore Analysis: Project Overviwe
+# [Project1: Global Superstore Analysis: Project Overviwe](https://github.com/FadiaTaha/Global-Superstore-Analysis-Via-Python)
 
 •	Analyzed the data for 24 columns and 51290 rows via Python libraries. 
 
