@@ -17,7 +17,7 @@ had the lowest price.
 
 
 
-![](/Images/Quantity%2C%20Category%20and%20price%20relation.png)
+![](https://github.com/FadiaTaha/Fadia-Taha/blob/main/Images/Quantity%2C%20Category%20and%20price%20relation.png)
 
 
 
@@ -38,6 +38,6 @@ had the lowest price.
 
 
 
-![](/Images/Student%20performance.png)
+![](https://github.com/FadiaTaha/Fadia-Taha/blob/main/Images/Quantity%2C%20Category%20and%20price%20relation.png)
 
 
