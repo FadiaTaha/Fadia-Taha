@@ -15,7 +15,12 @@ had the lowest price.
 
 
 
+
+
 ![](/Images/Quantity%2C%20Category%20and%20price%20relation.png)
+
+
+
 
 
 # [Project 2: Students Performance: Project Overview](https://github.com/FadiaTaha/Student-Performance-Project.)
@@ -27,6 +32,10 @@ had the lowest price.
 •	 The result looking for the relation  between gender, parental level of education and  preparation course and tests score. 
 
 •	This result could help the institution to determine the elements that affect students' performance.
+
+
+
+
 
 
 ![](/Images/Student%20performance.png)
