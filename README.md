@@ -11,3 +11,16 @@
 •	Finally, I created a tool to know the relation between three variables (multiple axis). Below,  in the picture we can see that the office supplies had the hieghst quantitnty of order because it
 had the lowest price.  
 
+
+
+# [Project2: Students Performance: Project Overview] (https://github.com/FadiaTaha/Student-Performance-Project.)
+
+•	Create multiple aggregation tool in python to analyze data.
+
+•	In manipulation stage I extract new three columns through where.np to know who pass and fail in the test.
+
+•	 The result looking for the relation  between gender, parental level of education and  preparation course and tests score. 
+
+•	This result could help the institution to determine the elements that affect students' performance 
+
+
