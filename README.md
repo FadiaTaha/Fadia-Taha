@@ -41,3 +41,21 @@ had the lowest price.
 ![](/Images/Student_performance.png)
 
 
+
+
+
+
+# [Project 3: Corona-Virus Cases and Deaths Per Month In The Global](https://public.tableau.com/profile/fadia2965#!/vizhome/WHO-COVID-19-Global/Story1?publish=yes)
+
+•	Using Tableau to visualize the corona-Virus deaths and cases.
+
+•	First, visual data in separated sheet.
+
+•	Second, using dashboard to collect sheet.
+
+•	Third, create story to simplify reading the data and result. 
+
+![](/Images/Corona_Viruse.jpg)
+
+
+
