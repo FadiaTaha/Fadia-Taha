@@ -43,4 +43,4 @@
 -Finally, Used linear regression to predict missing data in price column.
 
 
-![](/Images/price%20prediction.png)
+![](Images/price%20prediction.png)
