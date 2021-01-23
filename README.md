@@ -10,6 +10,8 @@ I can collecting and analyzing data to identify useful trends and provide manage
 - Asked questions to get a clear data. Finally, I created a tool to know the relation between three variables (multiple axis).
 - we can see that the office supplies had the highest quantity of order because it had the lowest price.
 
+![](/Images/Global%20Superstore.png)
+
 
 
 [Project 2: Student performance Analysis: Project Overview:](https://github.com/FadiaTaha/Student-Performance-Project.)
@@ -18,6 +20,7 @@ I can collecting and analyzing data to identify useful trends and provide manage
 - Create multiple aggregation tool in python to analyze data.
 - In manipulation stage I extract new three columns through where.np to know who pass and fail in the test.
 - Create codes to make data more readable by asking question that semplified data in tables and visually.
+![](/Images/Student_performance.png)
 
 
 [Project 3: Corona-Virus cases and deaths per month in the global Via Tableau: Project Overviwe:](https://public.tableau.com/profile/fadia2965#!/vizhome/WHO-COVID-19-Global/Story1?publish=yes)
@@ -26,6 +29,7 @@ I can collecting and analyzing data to identify useful trends and provide manage
 - First, worked on worksheet to analyze data.
 - Second, Collected worksheets in a dashboard.
 - Finally, created a story to give a full image of data.
+![](/Images/Global%20Superstore.png)
 
 
 [Project 4: Daimond Price Prediction: Project Overview:](https://github.com/FadiaTaha/Daimon-Price-Prediction)
@@ -35,3 +39,5 @@ I can collecting and analyzing data to identify useful trends and provide manage
 - Used concatination function to combaine the two datasets in axis=0.
 - Then made data preprocessing.
 -Finally, Used linear regression to predict missing data in price column.
+
+![](/Images/price%20prediction.png)
