@@ -1,6 +1,3 @@
-# Fadia-Taha
-I can collecting and analyzing data to identify useful trends and provide management with relevant information that will facilitate informed decisions. 
-
 
 [Project 1: Global Suprstore Analysis: Project Overview:](https://github.com/FadiaTaha/Global-Superstore-Analysis-Via-Python)
 
