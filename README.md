@@ -8,7 +8,7 @@
 - we can see that the office supplies had the highest quantity of order because it had the lowest price.
 
 
-![](Global%20Superstore.png)
+![](https://github.com/FadiaTaha/Fadia-Taha/blob/main/Images/Global%20Superstore.png)
 
 
 
