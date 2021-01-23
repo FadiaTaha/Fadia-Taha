@@ -8,7 +8,7 @@
 - we can see that the office supplies had the highest quantity of order because it had the lowest price.
 
 
-![](Images/price%20prediction.png)
+![](Global%20Superstore.png)
 
 
 
